@@ -1,10 +1,21 @@
+{
 
-# Anushka Billing App
+"invoiceNumber": "AS-00001",
 
-Billing app for water purifier sales and service management.
+"dateTime": "24 Jun 2026, 11:20:31 am",
 
-Features:
-- Customer Management
-- Bill Generation
-- Service Records
-- Product Management
+"customerName": "Rahul Sharma",
+
+"mobileNumber": "9876543210",
+
+}
+
+"productName": "RO Classic Pro",
+
+"quantity": 1,
+
+"price": 12000,
+
+"total": "12000.00",
+
+"createdAt": "2026-06-24T05:50:31.00
